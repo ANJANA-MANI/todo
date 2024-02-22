@@ -1,0 +1,22 @@
+
+
+.row
+{
+background-color:white;
+padding: 10px;
+margin: 250px;
+box-shadow: 1px 1px 1px lightgray;
+}
+input{
+    margin: 10px;
+    
+}
+#add{
+border: none;
+padding: 5px;
+border-radius: 5px;
+}
+.edit{
+   
+    border: none;
+}
